@@ -1,0 +1,15 @@
+audioperm==0.0.5
+Flask==2.1.2
+keras==2.9.0
+matplotlib==3.5.2
+numpy==1.21.3
+opencv_python==4.6.0.66
+Pillow==9.1.1
+scikit_learn==1.1.1
+scipy==1.8.1
+sounddevice==0.4.4
+tensorflow==2.9.1
+tensorflow_cpu==2.9.0
+tqdm==4.62.3
+wavio==0.0.4
+Werkzeug==2.1.2
